@@ -1,3 +1,5 @@
 fits_data
 **/Bubble_detection
-
+jwst_bubble/Spitzer bubble検出notebook + モデルパラメータ/RGB_fig_APLPY
+jwst_bubble/Spitzer bubble検出notebook + モデルパラメータ/training_log_v20/earlystopping.pth
+jwst_bubble/Super bubble検出notebook + パラメータ/training_log_v29/earlystopping.pth
